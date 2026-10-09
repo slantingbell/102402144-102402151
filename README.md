@@ -43,7 +43,7 @@ campus-lost-found/
 ## 运行
 
 ```bash
-cd "F:/vibe coding/campus-lost-found"
+cd "campus-lost-found"
 python -m venv .venv
 source .venv/Scripts/activate          # Git Bash；PowerShell 用 .venv\Scripts\Activate.ps1
 pip install -r requirements-dev.txt    # 只跑服务的话用 requirements.txt 即可
